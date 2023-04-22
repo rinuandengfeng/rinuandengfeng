@@ -23,7 +23,7 @@ I'm rinuandengfeng.
 
 
 ### :trophy: 荣誉
-![rinuandengfeng's github trophy](https://github-profile-trophy.vercel.app/?username=rinuandengfeng&row=1)(https://github.com/rinuandengfeng/library)
+![rinuandengfeng's github trophy](https://github-profile-trophy.vercel.app/?username=rinuandengfeng&row=1)
 
 
 
