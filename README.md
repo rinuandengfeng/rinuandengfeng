@@ -7,7 +7,7 @@ I'm rinuandengfeng.
 
 
 ### :muscle: 主要技术栈 
-[![My Skills](https://skillicons.dev/icons?i=python,golang,js,redis,docker,linux,mongodb,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,golang,mysql,redis,docker,linux,mongodb,kubernetes)](https://skillicons.dev)
 
 ![rinuandengfeng's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinuandengfeng&theme=tokyonight&&hide_progress=true&layout=compact&langs_count=6)
 
