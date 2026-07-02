@@ -35,6 +35,4 @@ Engineering Principles
 - 可观测优先于不可解释的自动化
 - 幂等优先于侥幸成功
 
-⸻
-
 Build useful systems. Keep learning. Make complex things maintainable.
