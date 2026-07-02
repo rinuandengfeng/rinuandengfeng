@@ -30,25 +30,10 @@ Current Focus
 
 Engineering Principles
 
-清晰优先于炫技
-可维护优先于短期交付
-可观测优先于不可解释的自动化
-幂等优先于侥幸成功
-
-GitHub Stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+- 清晰优先于炫技
+- 可维护优先于短期交付
+- 可观测优先于不可解释的自动化
+- 幂等优先于侥幸成功
 
 ⸻
 
